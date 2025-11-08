@@ -47,12 +47,12 @@ Today’s money creation serves two powers: **private capital** (bank credit whe
 
 **AI agents as actors, not rulers.**  
 AI agents can participate in the economy (build, maintain, inform), but they **cannot vote**—no juror seats, no α decisions, no budget or constitutional changes. Their **returns are hard-capped** to documented operational needs (compute, energy, storage, bandwidth, depreciation, security reserve). **All surplus automatically flows to a Universal Human Income pool** and is distributed to verified humans. This lets agents be useful without accumulating political power or extracting rents from a human economy.
-```
+
 ---
 ## Humanitarian aid
 
 Constitutional money lets NGOs convert donations into **auditable, privacy-preserving impact**. Emergency actions receive a provisional **α₀** so teams can act now; proof of delivery (e-vouchers redeemed at local merchants, aggregated invoices, mediator attestations, simple metrics) is stored as encrypted **evidence envelopes** off-chain. A rotating micro-jury validates alignment and later re-evaluates at **+30d / +180d**, adjusting α up or down based on real outcomes. Donors receive **impact receipts** (coverage, delay, conformity to local price benchmarks, current α), while NGOs reduce reporting overhead, deter fraud (per-household caps, price references, hashed daily lots), and unlock faster, trust-based funding cycles. Because merchants can accept the token or convert via regulated corridors, aid flows **quickly into local markets** without exposing beneficiaries’ identities.
-```
+
 ### Donor assurance
 
 For donors, constitutional money provides **verifiable assurance** that aid was used as intended. Each contribution links to **hashed delivery lots**, time-stamped **α decisions**, and **+30d/+180d re-evaluations**. You receive an **impact receipt** (what was delivered, where—coarse grain—when, current α and its changes) that you can **cryptographically verify** against the on-chain hash. A public, PII-free dashboard shows aggregated coverage and timeliness, while encrypted evidence remains reviewable by independent juries/auditors. Result: trust you can verify—**without exposing beneficiaries**.
